@@ -23,4 +23,4 @@ Repository = "https://github.com/Hangover3832/ComfyUI-MathHelper"
 Issues = "https://github.com/Hangover3832/ComfyUI-MathHelper/issues"
 
 [tool.comfy]
-Frontend = "custom_nodes/MathHelper/WEB/"
+Frontend = "WEB/"

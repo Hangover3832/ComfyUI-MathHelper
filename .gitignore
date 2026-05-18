@@ -28,7 +28,7 @@ venv/
 ENV/
 
 # ComfyUI
-custom_nodes/MathHelper/__pycache__/
+MathHelper/__pycache__/
 
 # IDE
 .idea/

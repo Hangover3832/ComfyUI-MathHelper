@@ -45,7 +45,7 @@ Klon das Repository direkt in den `custom_nodes`-Ordner:
 ```bash
 cd ComfyUI/custom_nodes
 git clone https://github.com/Hangover3832/ComfyUI-MathHelper.git
-cd MathHelper
+cd ComfyUI-MathHelper
 pip install -e .
 ```
 
